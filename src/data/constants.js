@@ -52,7 +52,7 @@ export const skills = [
       },
       {
         name : "TailwindCSS",
-        image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
+        image: "download.jpg",
       },
       {
         name : "Canva",
