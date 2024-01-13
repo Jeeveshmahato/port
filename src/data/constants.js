@@ -1,4 +1,7 @@
 import './HeroImage.jpg'
+import './download.jpg'
+
+
 export const Bio = {
   name: "Jeevesh Mahato",
   roles: [
@@ -47,6 +50,18 @@ export const skills = [
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
       },
+      {
+        name : "TailwindCSS",
+        image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
+      },
+      {
+        name : "Canva",
+        Image : "https://play-lh.googleusercontent.com/3aWGqSf3T_p3F6wc8FFvcZcnjWlxpZdNaqFVEvPwQ1gTOPkVoZwq6cYvfK9eCkwCXbRY",
+      },
+      {
+        name : "Wordpress",
+        Image : "https://media.licdn.com/dms/image/D4D0BAQGhzPgS7-OloQ/company-logo_200_200/0/1684266418400?e=2147483647&v=beta&t=J1dX6ztpvkOYvF9uzwvXqRHTuTdoTWq_dF_5STQ72MU",
+      },
       
       
     ],
@@ -68,6 +83,24 @@ export const experiences = [
       "vSAM",
       "COBOL",
       "DB2",
+      
+    ],
+    
+  },
+  {
+    id: 0,
+    img: "https://media.licdn.com/dms/image/D4D0BAQGhzPgS7-OloQ/company-logo_200_200/0/1684266418400?e=2147483647&v=beta&t=J1dX6ztpvkOYvF9uzwvXqRHTuTdoTWq_dF_5STQ72MU",
+    role: "Front-end Developer",
+    company: "Ricoz",
+    date: "October 2023 - Present",
+    desc: " I have been weaving magic over at Ricoz , sprinkling a bit of REACTJS and TailwindCSS to create websites that not only look good but feel amazing to use.",
+    skills: [
+      "HTML",
+      "CSS",
+      "ReactJS",
+      "JavaScript",
+      "TailwindCSS",
+      
       
     ],
     
